@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TaiwanAllen
 - 👀 I’m interested in piano andcoputer
 - 🌱 I’m currently learning anything about this world
-- 💞️ I’m looking to collaborate on Goole
+- 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me? You can't reach me.
 
 <!---
